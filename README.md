@@ -11,7 +11,7 @@ Notebooks for the [2023 course on Large Scale Machine Learning at Mines ParisTec
 * **Practice unsupervised deep learning with auto-encoders and GAN with [this notebook](https://github.com/JosephGesnouin/Unsup_gener_nets/blob/main/TP_modeles_g%C3%A9n%C3%A9ratifs.ipynb)**
 
 Beginners should work on TP1 (LeNet on MNIST), and then at least begin TP3 (Deep Generative Models)
-Students who have already practised with Deep ConvNets should work essentially on TP3. TP2 may be useful only for those who have never practised Transfer Learning.
+**Students who have already practised with Deep ConvNets should work essentially on TP3.** TP2 may be useful only for those who have never practised Transfer Learning.
 
 ## Day 3: Deep reinforcement learing
 Instructions inside `3_deep_reinforcement_learning.pdf`. The notebook is [here](https://githubtocolab.com/telejesus2/tprl-lsml-2022/blob/main/tprl_lsml_2022.ipynb).
