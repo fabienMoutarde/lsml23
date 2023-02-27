@@ -1,5 +1,5 @@
 # lsml23
-Notebooks for the [2023 course on Large Scale Machine Learning at Mines ParisTech](https://people.minesparis.psl.eu/fabien.moutarde/lsml2023).
+Notebooks for the [2023 course on Large Scale Machine Learning at Mines ParisTech](https://people.minesparis.psl.eu/fabien.moutarde/ES_LSML/LSML-23_LargeScaleMachineLearning.htm).
 
 ## Day 1: Introduction to large scale ML
 * If you are familiar with `scikit-learn` (for example, Mines students who had Data Science in their first year or took "Apprentissage artificiel" previously), work on notebook `1_sklearn_at_scale.ipynb`.
