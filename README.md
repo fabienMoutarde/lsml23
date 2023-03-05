@@ -19,8 +19,8 @@ Instructions inside `3_deep_reinforcement_learning.pdf`. The notebook is [here](
 ## Day 4: Stochastic gradient descent
 Work on notebook `4_stochastic_gradient_descent.ipynb`.
 
-## Day 5: Natural Language Processing with Recurrent Neural Networks and Transformers
-Work on notebook `5_nlp_rnn.ipynb`.
+## Day 5: Natural Language Processing with Recurrent Neural Networks
+Work on notebook `5_nlp_embedding_rnn.ipynb`.
 
 
 ## Setup
