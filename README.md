@@ -33,4 +33,5 @@ To run the notebooks, you will need Python, [Jupyter](https://jupyter.org/) (eit
 ```
 
 ## Course materials
-You can find course materials here: 
+You can find course materials (pdf of slides) here: [https://people.minesparis.psl.eu/fabien.moutarde/ES_LSML/Slides/](https://people.minesparis.psl.eu/fabien.moutarde/ES_LSML/Slides/)
+
